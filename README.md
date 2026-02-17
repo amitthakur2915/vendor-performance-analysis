@@ -29,6 +29,7 @@ This project simulates a real-world data analyst scenario where raw data is proc
 
 ## 📂 Project Structure
 
+```
 vendor-performance-analysis/
 │── README.md
 │── .gitignore
@@ -44,6 +45,8 @@ vendor-performance-analysis/
 └── scripts/
     ├── ingestion_db.py
     └── get_vendor_summary.py
+```
+
 
 
 
