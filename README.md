@@ -28,7 +28,7 @@ This project simulates a real-world data analyst scenario where raw data is proc
 ---
 
 ## 📂 Project Structure
----
+
 vendor-performance-analysis/
 │── README.md
 │── .gitignore
@@ -46,7 +46,7 @@ vendor-performance-analysis/
 │   └── get_vendor_summary.py
 
 
----
+
 
 ## 📊 Analysis Highlights
 - Vendor-wise sales and purchase aggregation
