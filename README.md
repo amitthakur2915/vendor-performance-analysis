@@ -1,5 +1,5 @@
 # vendor-performance-analysis
-# Vendor Performance Analysis
+
 
 ## 📌 Project Overview
 This project focuses on analyzing vendor performance using sales, purchase, and inventory-related data.  
@@ -35,15 +35,16 @@ vendor-performance-analysis/
 │── Vendor Performance Report.pdf
 │
 ├── Dashboard/
-│   └── (dashboard files / visuals)
+│   └── dashboard files / visuals
 │
 ├── notebooks/
 │   ├── Exploratory Data Analysis.ipynb
 │   └── vendor_performance_analysis.ipynb
 │
-├── scripts/
-│   ├── ingestion_db.py
-│   └── get_vendor_summary.py
+└── scripts/
+    ├── ingestion_db.py
+    └── get_vendor_summary.py
+
 
 
 
